@@ -23,7 +23,7 @@
     "pg": "^7.14.0",
     "rword": "^3.1.1",
     "type-graphql": "^0.17.5",
-    "typeorm": "^0.2.20",
+    "typeorm": "^0.2.25",
     "uniqid": "^5.2.0"
   },
   "devDependencies": {
